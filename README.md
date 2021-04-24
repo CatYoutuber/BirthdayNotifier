@@ -13,6 +13,6 @@ Simple background program that indicates how many days left to your birthday.
  4. Fireworks switch
  5. Baloon tip show duration
  6. Baloon tip duration test
- 7. Birthdat date picker
+ 7. Birthday date picker
  
 ![Prefs](/Screenshots/settings.png)
