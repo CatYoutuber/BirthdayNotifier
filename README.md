@@ -7,3 +7,4 @@ Simple background program that indicates how many days left to your burthday.
   * */props    (-p)*: Open properties window
   * */silent   (-s)*: Don't show notification on start
 * **Prefrences**
+![Prefs](/screenshots/settings.png)
