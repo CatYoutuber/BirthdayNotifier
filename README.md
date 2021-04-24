@@ -1,5 +1,5 @@
 # BirthdayNotifier
-Simple background program that indicates how many days left to your burthday.
+Simple background program that indicates how many days left to your birthday.
 ![Work](/Screenshots/work.png)
 ## Setting Up
 * **Command Line Arguments**
