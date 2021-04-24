@@ -1,0 +1,11 @@
+D:\_VS\repos\BirthdayNotifier\bin\Debug\BirthdayNotifier.exe
+D:\_VS\repos\BirthdayNotifier\bin\Debug\BirthdayNotifier.pdb
+D:\_VS\repos\BirthdayNotifier\obj\Debug\BirthdayNotifier.csprojAssemblyReference.cache
+D:\_VS\repos\BirthdayNotifier\obj\Debug\BirthdayNotifier.csproj.CoreCompileInputs.cache
+D:\_VS\repos\BirthdayNotifier\obj\Debug\BirthdayNotifier.exe
+D:\_VS\repos\BirthdayNotifier\obj\Debug\BirthdayNotifier.pdb
+D:\_VS\repos\BirthdayNotifier\obj\Debug\BirthdayNotifier.DateSelectorForm.resources
+D:\_VS\repos\BirthdayNotifier\obj\Debug\BirthdayNotifier.csproj.GenerateResource.cache
+D:\_VS\repos\BirthdayNotifier\obj\Debug\BirthdayNotifier.FireworkForm.resources
+D:\_VS\repos\BirthdayNotifier\bin\Debug\BirthdayNotifier.exe.config
+D:\_VS\repos\BirthdayNotifier\obj\Debug\BirthdayNotifier.Resources.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayNotifier", "BirthdayNotifier.csproj", "{DC6E02BC-8F7B-4FB3-97E6-718DDF24D6EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6E02BC-8F7B-4FB3-97E6-718DDF24D6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6E02BC-8F7B-4FB3-97E6-718DDF24D6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6E02BC-8F7B-4FB3-97E6-718DDF24D6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6E02BC-8F7B-4FB3-97E6-718DDF24D6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BE7AC6C-58C9-4C6D-80B3-66C69FE8D69B}
+	EndGlobalSection
+EndGlobal
