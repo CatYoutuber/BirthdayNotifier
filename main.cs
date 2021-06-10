@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Drawing;
-using System.Threading;
 using System.Reflection;
 using System.Windows.Forms;
 
@@ -19,7 +18,7 @@ namespace BirthdayNotifier
             icon.Visible = true;
             ContextMenuStrip contextMenu = new ContextMenuStrip();
             contextMenu.Items.AddRange(new ToolStripItem[] {
-                new ToolStripMenuItem("Settings",new Bitmap(32,32),new EventHandler(Settings_Click)),
+                new ToolStripMenuItem("Settings",Resources.settings,new EventHandler(Settings_Click)),
                 new ToolStripSeparator(),
                 new ToolStripMenuItem("Exit",SystemIcons.Error.ToBitmap(),new EventHandler(Exit_Click))
             });
@@ -63,6 +62,6 @@ namespace BirthdayNotifier
             if (isBirthdayToday() && Settings.Default.ShowFirework)
                 new FireworkForm().Show();
         }
-        private static bool isBirthdayToday() => TimeRemeaning.Days == 0;
+        private static bool isBirthdayToday() => TimeRemeaning.Days == 0 && TimeRemeaning.Hours > 1;
     }
 }

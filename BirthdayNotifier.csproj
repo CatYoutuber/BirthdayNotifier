@@ -120,5 +120,8 @@
   <ItemGroup>
     <None Include="Resources\iskra-3-0.gif" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
